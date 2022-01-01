@@ -1,0 +1,293 @@
+sex,chest_pain_type,exercise_induced_angina,st_slope,thalassemia,max_heart_rate_achieved,st_depression,num_major_vessels,target
+male,asymptomatic,no,upsloping,normal,150,2.3,0,Heart Disease
+male,non-anginal pain,no,upsloping,fixed defect,187,3.5,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,172,1.4,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,178,0.8,0,Heart Disease
+female,typical angina,yes,downsloping,fixed defect,163,0.6,0,Heart Disease
+male,typical angina,no,flat,normal,148,0.4,0,Heart Disease
+female,atypical angina,no,flat,fixed defect,153,1.3,0,Heart Disease
+male,atypical angina,no,downsloping,reversable defect,173,0.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,reversable defect,162,0.5,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,174,1.6,0,Heart Disease
+male,typical angina,no,downsloping,fixed defect,160,1.2,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,139,0.2,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,171,0.6,0,Heart Disease
+male,asymptomatic,yes,flat,fixed defect,144,1.8,0,Heart Disease
+female,asymptomatic,no,downsloping,fixed defect,162,1.0,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,158,1.6,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,172,0.0,0,Heart Disease
+female,asymptomatic,no,upsloping,fixed defect,114,2.6,0,Heart Disease
+male,typical angina,no,downsloping,fixed defect,171,1.5,0,Heart Disease
+female,asymptomatic,no,downsloping,fixed defect,151,1.8,2,Heart Disease
+male,typical angina,no,flat,reversable defect,161,0.5,0,Heart Disease
+male,non-anginal pain,yes,downsloping,fixed defect,179,0.4,0,Heart Disease
+male,typical angina,no,downsloping,fixed defect,178,0.0,0,Heart Disease
+male,non-anginal pain,yes,flat,fixed defect,137,1.0,0,Heart Disease
+male,asymptomatic,yes,downsloping,reversable defect,178,1.4,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,162,0.4,2,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,157,1.6,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,123,0.6,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,157,0.8,1,Heart Disease
+male,non-anginal pain,no,upsloping,fixed defect,152,1.2,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,168,0.0,1,Heart Disease
+male,typical angina,no,downsloping,reversable defect,140,0.4,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,188,0.0,0,Heart Disease
+male,non-anginal pain,no,upsloping,fixed defect,152,0.5,1,Heart Disease
+male,asymptomatic,yes,downsloping,fixed defect,125,1.4,1,Heart Disease
+female,non-anginal pain,yes,upsloping,fixed defect,160,1.4,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,170,0.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,reversable defect,165,1.6,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,148,0.8,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,151,0.8,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,142,1.5,1,Heart Disease
+male,atypical angina,no,flat,fixed defect,180,0.2,0,Heart Disease
+male,typical angina,yes,flat,fixed defect,148,3.0,0,Heart Disease
+female,typical angina,no,flat,fixed defect,143,0.4,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,182,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,172,0.2,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,180,0.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,156,0.0,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,160,0.0,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,149,0.5,0,Heart Disease
+male,typical angina,no,flat,fixed defect,151,0.4,0,Heart Disease
+male,non-anginal pain,no,flat,reversable defect,146,1.8,3,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,175,0.6,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,172,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,158,0.8,1,Heart Disease
+male,typical angina,no,downsloping,fixed defect,186,0.0,0,Heart Disease
+male,typical angina,no,downsloping,fixed defect,185,0.0,0,Heart Disease
+male,asymptomatic,no,downsloping,fixed defect,174,0.0,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,159,0.0,1,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,130,0.0,1,Heart Disease
+male,atypical angina,no,downsloping,reversable defect,156,0.0,0,Heart Disease
+male,asymptomatic,no,flat,normal,190,0.0,0,Heart Disease
+male,atypical angina,no,flat,normal,132,0.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,165,0.0,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,182,1.4,0,Heart Disease
+male,non-anginal pain,yes,flat,fixed defect,143,1.2,0,Heart Disease
+female,atypical angina,no,flat,fixed defect,175,0.6,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,170,0.0,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,163,0.0,0,Heart Disease
+male,non-anginal pain,no,flat,reversable defect,147,0.4,0,Heart Disease
+male,non-anginal pain,yes,downsloping,reversable defect,154,0.0,1,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,202,0.0,0,Heart Disease
+male,typical angina,yes,downsloping,fixed defect,186,0.0,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,165,0.2,0,Heart Disease
+female,atypical angina,no,flat,fixed defect,161,1.4,0,Heart Disease
+male,non-anginal pain,no,flat,fixed defect,166,2.4,0,Heart Disease
+male,atypical angina,yes,downsloping,fixed defect,164,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,184,0.0,0,Heart Disease
+male,non-anginal pain,yes,flat,reversable defect,154,0.6,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,179,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,170,0.0,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,160,0.0,1,Heart Disease
+male,asymptomatic,no,flat,reversable defect,178,1.2,0,Heart Disease
+female,typical angina,no,flat,fixed defect,122,0.6,0,Heart Disease
+female,non-anginal pain,no,flat,reversable defect,160,1.6,0,Heart Disease
+male,non-anginal pain,no,downsloping,reversable defect,151,1.0,1,Heart Disease
+male,atypical angina,no,downsloping,reversable defect,156,0.0,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,158,1.6,0,Heart Disease
+female,typical angina,no,flat,fixed defect,122,1.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,175,0.0,2,Heart Disease
+male,typical angina,yes,downsloping,reversable defect,168,0.0,0,Heart Disease
+female,atypical angina,yes,downsloping,fixed defect,159,0.0,1,Heart Disease
+female,atypical angina,no,flat,fixed defect,138,0.0,0,Heart Disease
+male,typical angina,yes,downsloping,reversable defect,111,0.0,0,Heart Disease
+female,typical angina,no,flat,fixed defect,157,1.2,0,Heart Disease
+male,typical angina,no,downsloping,reversable defect,147,0.1,3,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,162,1.9,1,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,173,0.0,3,Heart Disease
+male,asymptomatic,no,downsloping,fixed defect,178,0.8,2,Heart Disease
+male,asymptomatic,no,upsloping,reversable defect,145,4.2,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,179,0.0,2,Heart Disease
+male,non-anginal pain,no,upsloping,reversable defect,194,0.8,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,163,0.0,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,115,1.5,0,Heart Disease
+male,asymptomatic,no,flat,fixed defect,131,0.1,1,Heart Disease
+female,typical angina,yes,flat,fixed defect,152,0.2,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,162,1.1,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,159,0.0,0,Heart Disease
+female,typical angina,yes,downsloping,fixed defect,154,0.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,reversable defect,173,0.2,1,Heart Disease
+female,non-anginal pain,no,downsloping,reversable defect,133,0.2,0,Heart Disease
+male,typical angina,no,downsloping,reversable defect,161,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,155,0.0,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,170,0.0,0,Heart Disease
+male,non-anginal pain,no,flat,fixed defect,168,2.0,0,Heart Disease
+male,asymptomatic,no,flat,reversable defect,162,1.9,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,172,0.0,0,Heart Disease
+female,typical angina,yes,flat,fixed defect,152,0.0,0,Heart Disease
+female,typical angina,no,flat,fixed defect,122,2.0,2,Heart Disease
+male,typical angina,no,downsloping,fixed defect,182,0.0,0,Heart Disease
+female,non-anginal pain,yes,downsloping,fixed defect,172,0.0,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,167,0.0,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,179,0.0,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,192,0.7,0,Heart Disease
+male,typical angina,no,downsloping,fixed defect,143,0.1,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,172,0.0,1,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,169,0.1,0,Heart Disease
+female,atypical angina,yes,downsloping,fixed defect,121,0.2,1,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,163,0.0,1,Heart Disease
+female,atypical angina,no,flat,fixed defect,162,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,162,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,153,0.0,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,163,0.0,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,163,0.0,0,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,96,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,140,0.0,0,Heart Disease
+male,typical angina,yes,flat,normal,126,1.5,0,Heart Disease
+male,typical angina,yes,flat,reversable defect,105,0.2,1,Heart Disease
+female,non-anginal pain,no,downsloping,fixed defect,157,0.6,0,Heart Disease
+male,typical angina,no,flat,fixed defect,181,1.2,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,173,0.0,0,Heart Disease
+female,typical angina,no,downsloping,fixed defect,142,0.3,2,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,143,0.0,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,149,0.3,1,Heart Disease
+female,asymptomatic,no,downsloping,fixed defect,171,0.9,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,169,0.0,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,150,0.0,0,Heart Disease
+male,typical angina,no,downsloping,normal,138,2.3,0,Heart Disease
+female,typical angina,no,flat,fixed defect,125,1.6,0,Heart Disease
+male,asymptomatic,no,flat,reversable defect,155,0.6,0,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,152,0.0,1,Heart Disease
+female,non-anginal pain,no,flat,fixed defect,152,0.0,0,Heart Disease
+female,typical angina,no,flat,fixed defect,131,0.6,0,Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,179,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,174,0.0,0,Heart Disease
+male,atypical angina,no,downsloping,reversable defect,163,0.0,0,Heart Disease
+male,atypical angina,no,upsloping,fixed defect,169,0.0,0,Heart Disease
+female,atypical angina,no,downsloping,fixed defect,166,1.2,0,Heart Disease
+male,atypical angina,no,downsloping,fixed defect,182,0.0,0,Heart Disease
+male,typical angina,yes,flat,fixed defect,108,1.5,3,No Heart Disease
+male,typical angina,yes,flat,reversable defect,129,2.6,2,No Heart Disease
+female,typical angina,no,upsloping,fixed defect,160,3.6,2,No Heart Disease
+male,typical angina,no,flat,reversable defect,147,1.4,1,No Heart Disease
+male,typical angina,yes,upsloping,reversable defect,155,3.1,0,No Heart Disease
+male,non-anginal pain,yes,flat,normal,142,0.6,1,No Heart Disease
+male,atypical angina,no,upsloping,reversable defect,168,1.0,0,No Heart Disease
+male,atypical angina,no,flat,fixed defect,160,1.8,0,No Heart Disease
+male,non-anginal pain,no,downsloping,reversable defect,173,3.2,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,132,2.4,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,114,2.0,0,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,160,1.4,2,No Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,158,0.0,0,No Heart Disease
+male,typical angina,yes,flat,reversable defect,120,2.5,0,No Heart Disease
+male,typical angina,yes,flat,normal,112,0.6,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,132,1.2,1,No Heart Disease
+female,typical angina,no,flat,reversable defect,114,1.0,3,No Heart Disease
+female,typical angina,no,downsloping,fixed defect,169,0.0,0,No Heart Disease
+male,non-anginal pain,no,flat,reversable defect,165,2.5,1,No Heart Disease
+male,typical angina,no,flat,reversable defect,128,2.6,0,No Heart Disease
+male,typical angina,no,downsloping,fixed defect,153,0.0,1,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,144,1.4,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,109,2.2,1,No Heart Disease
+male,non-anginal pain,no,flat,reversable defect,163,0.6,1,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,158,0.0,0,No Heart Disease
+female,typical angina,yes,flat,reversable defect,142,1.2,0,No Heart Disease
+male,typical angina,yes,flat,reversable defect,131,2.2,3,No Heart Disease
+male,typical angina,no,flat,reversable defect,113,1.4,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,142,2.8,2,No Heart Disease
+male,non-anginal pain,no,flat,fixed defect,155,3.0,0,No Heart Disease
+male,typical angina,yes,upsloping,reversable defect,140,3.4,0,No Heart Disease
+male,non-anginal pain,no,flat,fixed defect,147,3.6,0,No Heart Disease
+male,typical angina,no,flat,reversable defect,163,0.2,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,99,1.8,2,No Heart Disease
+male,typical angina,no,downsloping,normal,158,0.6,2,No Heart Disease
+male,typical angina,no,downsloping,fixed defect,177,0.0,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,141,2.8,1,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,111,0.8,0,No Heart Disease
+male,non-anginal pain,yes,flat,reversable defect,150,1.6,0,No Heart Disease
+female,typical angina,no,upsloping,reversable defect,145,6.2,3,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,161,0.0,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,142,1.2,1,No Heart Disease
+female,typical angina,no,flat,reversable defect,157,2.6,2,No Heart Disease
+male,non-anginal pain,no,flat,reversable defect,139,2.0,3,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,162,0.0,1,No Heart Disease
+male,non-anginal pain,no,flat,reversable defect,150,0.4,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,140,3.6,1,No Heart Disease
+male,typical angina,no,flat,reversable defect,140,1.2,0,No Heart Disease
+female,typical angina,yes,flat,reversable defect,146,1.0,0,No Heart Disease
+male,typical angina,yes,flat,fixed defect,144,1.2,1,No Heart Disease
+female,typical angina,yes,flat,reversable defect,136,3.0,0,No Heart Disease
+female,non-anginal pain,no,flat,reversable defect,97,1.2,1,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,132,1.8,3,No Heart Disease
+male,typical angina,no,flat,reversable defect,127,2.8,1,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,150,0.0,2,No Heart Disease
+female,typical angina,no,flat,reversable defect,154,4.0,3,No Heart Disease
+male,typical angina,yes,upsloping,reversable defect,111,5.6,0,No Heart Disease
+male,asymptomatic,no,flat,fixed defect,174,1.4,1,No Heart Disease
+female,typical angina,yes,upsloping,reversable defect,133,4.0,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,126,2.8,1,No Heart Disease
+male,typical angina,yes,upsloping,reversable defect,125,2.6,0,No Heart Disease
+male,atypical angina,no,flat,reversable defect,103,1.4,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,130,1.6,0,No Heart Disease
+male,asymptomatic,no,flat,reversable defect,159,0.2,0,No Heart Disease
+male,non-anginal pain,yes,flat,reversable defect,131,1.8,0,No Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,152,0.0,0,No Heart Disease
+male,typical angina,no,flat,reversable defect,124,1.0,3,No Heart Disease
+male,typical angina,yes,flat,reversable defect,145,0.8,1,No Heart Disease
+male,typical angina,yes,upsloping,fixed defect,96,2.2,1,No Heart Disease
+male,typical angina,no,flat,fixed defect,109,2.4,3,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,173,1.6,0,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,171,0.0,2,No Heart Disease
+male,typical angina,no,flat,reversable defect,170,1.2,2,No Heart Disease
+male,typical angina,yes,downsloping,fixed defect,162,0.0,3,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,156,0.0,0,No Heart Disease
+male,non-anginal pain,yes,flat,reversable defect,112,2.9,1,No Heart Disease
+female,typical angina,yes,flat,fixed defect,143,0.0,0,No Heart Disease
+male,typical angina,no,flat,normal,132,2.0,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,88,1.2,1,No Heart Disease
+male,typical angina,yes,flat,normal,105,2.1,1,No Heart Disease
+male,typical angina,no,flat,reversable defect,166,0.5,0,No Heart Disease
+female,typical angina,yes,flat,reversable defect,150,1.9,2,No Heart Disease
+male,atypical angina,yes,flat,normal,120,0.0,3,No Heart Disease
+male,atypical angina,no,downsloping,reversable defect,195,0.0,1,No Heart Disease
+male,non-anginal pain,no,flat,reversable defect,146,2.0,3,No Heart Disease
+male,typical angina,yes,flat,reversable defect,122,4.2,3,No Heart Disease
+female,typical angina,no,flat,fixed defect,106,1.9,3,No Heart Disease
+male,typical angina,yes,flat,fixed defect,125,0.9,2,No Heart Disease
+male,asymptomatic,no,downsloping,fixed defect,125,0.0,0,No Heart Disease
+male,typical angina,yes,flat,reversable defect,147,0.0,3,No Heart Disease
+male,typical angina,yes,flat,reversable defect,130,3.0,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,126,0.9,0,No Heart Disease
+female,typical angina,yes,flat,fixed defect,154,1.4,0,No Heart Disease
+male,asymptomatic,yes,flat,reversable defect,182,3.8,0,No Heart Disease
+female,typical angina,yes,flat,reversable defect,165,1.0,2,No Heart Disease
+male,typical angina,no,downsloping,fixed defect,160,0.0,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,95,2.0,2,No Heart Disease
+female,typical angina,yes,flat,fixed defect,169,1.8,2,No Heart Disease
+male,typical angina,yes,flat,fixed defect,108,0.0,1,No Heart Disease
+male,typical angina,yes,downsloping,fixed defect,132,0.1,1,No Heart Disease
+male,non-anginal pain,no,downsloping,fixed defect,126,0.8,3,No Heart Disease
+male,typical angina,yes,flat,fixed defect,116,3.2,2,No Heart Disease
+male,typical angina,yes,upsloping,reversable defect,103,1.6,0,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,144,0.8,0,No Heart Disease
+male,asymptomatic,no,flat,fixed defect,145,2.6,2,No Heart Disease
+male,typical angina,no,flat,fixed defect,71,1.0,0,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,156,0.1,1,No Heart Disease
+male,typical angina,yes,flat,fixed defect,118,1.0,1,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,168,1.0,2,No Heart Disease
+male,typical angina,no,flat,reversable defect,105,2.0,1,No Heart Disease
+male,atypical angina,no,downsloping,reversable defect,141,0.3,0,No Heart Disease
+female,atypical angina,no,downsloping,fixed defect,152,0.0,2,No Heart Disease
+male,typical angina,yes,flat,fixed defect,125,3.6,1,No Heart Disease
+male,typical angina,yes,flat,normal,125,1.8,0,No Heart Disease
+male,non-anginal pain,no,flat,normal,134,2.2,1,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,181,0.0,0,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,138,1.9,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,120,1.8,2,No Heart Disease
+male,asymptomatic,no,downsloping,fixed defect,162,0.8,2,No Heart Disease
+male,atypical angina,no,downsloping,fixed defect,164,0.0,1,No Heart Disease
+male,typical angina,yes,flat,reversable defect,143,3.0,1,No Heart Disease
+male,typical angina,no,downsloping,reversable defect,161,0.0,1,No Heart Disease
+female,typical angina,yes,flat,normal,146,2.8,2,No Heart Disease
+male,non-anginal pain,no,flat,reversable defect,150,0.8,0,No Heart Disease
+male,typical angina,yes,upsloping,normal,144,2.8,0,No Heart Disease
+male,typical angina,yes,downsloping,reversable defect,144,4.0,2,No Heart Disease
+female,typical angina,yes,flat,fixed defect,136,0.0,0,No Heart Disease
+male,typical angina,no,flat,normal,90,1.0,2,No Heart Disease
+female,typical angina,yes,flat,reversable defect,123,0.2,0,No Heart Disease
+male,asymptomatic,no,flat,reversable defect,132,1.2,0,No Heart Disease
+male,typical angina,no,flat,reversable defect,141,3.4,2,No Heart Disease
+male,typical angina,yes,flat,reversable defect,115,1.2,1,No Heart Disease
+female,atypical angina,no,flat,fixed defect,174,0.0,1,No Heart Disease
