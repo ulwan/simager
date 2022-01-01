@@ -28,15 +28,15 @@ setuptools.setup(
     install_requires=[
         "emoji>=0.6.0",
         "beautifulsoup4>=4.9.3",
-        "scikit-learn>=1.0.0",
+        "scikit-learn==0.24.2",
         "imbalanced-learn>=0.8.1",
         "lightgbm>=3.3.1",
         "xgboost>=1.5.0",
         "catboost>=1.0.3",
-        "matplotlib>=3.5.1",
-        "pandas>=1.3.5",
+        "matplotlib>=3.3.4",
+        "pandas>=1.1.5",
         "scikit-optimize>=0.9.0",
-        "scipy>=1.7.3"
+        "scipy>=1.5.4"
     ],
     python_requires=">=3.6",
 )
