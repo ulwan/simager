@@ -62,6 +62,56 @@ class TextPreprocess(object):
         self.stop_w_path = pkg_resources.resource_filename("simager", "data/stop_w.p")
         self.stop_w = pickle.load(open(self.stop_w_path, "rb"))
 
+    def add_normalizer(self, norm):
+        """ Adding normalizer dictionary
+
+        Args:
+            norm (dict, required): Dictionary of word normalizer, example: `{"yg": "yang"}`
+
+        """
+        if isinstance(norm, dict):
+            self.normalizer.update(norm)
+        else:
+            raise Exception("normalizer must be a dict, example: `{'yg': 'yang'}`")
+
+    def remove_normalizer(self, norm):
+        """ Remove normalizer dictionary
+
+        Args:
+            norm (list, required): List of word that want to be remove from normalizer, example: `["yg"]`
+
+        """
+        if isinstance(norm, list):
+            for i in norm:
+                self.normalizer.pop(i)
+        else:
+            raise Exception("normalizer must be a list, example: `['yg']`")
+
+    def add_stopwords(self, stopwords):
+        """ Adding stopwords dictionary
+
+        Args:
+            stopwords (list, required): List of word that want to add on stopwords dictionary, example: `["yang"]`
+
+        """
+        if isinstance(stopwords, list):
+            self.stop_w.update(set(stopwords))
+        else:
+            raise Exception("stopwords must be a list, example: `['yang']`")
+
+    def remove_stopwords(self, stopwords):
+        """ Remove stopwords from dictionary
+
+        Args:
+            stopwords (list, required): List of word that want to remove from stopwords dictionary, example: `["yang"]`
+
+        """
+        if isinstance(stopwords, list):
+            for i in stopwords:
+                self.stop_w.remove(i)
+        else:
+            raise Exception("stopwords must be a list, example: `['yg']`")
+
     def rm_punct(self):
         return (lambda text: text.translate(str.maketrans(dict.fromkeys(string.punctuation))))
 
