@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="simager",
-    version="0.1.1",
+    version="0.1.2",
     author="ulwan",
     license="MIT",
     author_email="ulwan.nashihun@gmail.com",
@@ -26,17 +26,17 @@ setuptools.setup(
         "Topic :: Text Processing",
     ],
     install_requires=[
-        "emoji>=0.6.0",
-        "beautifulsoup4>=4.9.3",
+        "emoji==0.6.0",
+        "beautifulsoup4==4.9.3",
         "scikit-learn==0.24.2",
-        "imbalanced-learn>=0.8.1",
-        "lightgbm>=3.3.1",
-        "xgboost>=1.5.0",
-        "catboost>=1.0.3",
-        "matplotlib>=3.3.4",
-        "pandas>=1.1.5",
-        "scikit-optimize>=0.9.0",
-        "scipy>=1.5.4"
+        "imbalanced-learn==0.8.1",
+        "lightgbm==3.3.1",
+        "xgboost==1.5.0",
+        "catboost==1.0.3",
+        "matplotlib==3.3.4",
+        "pandas==1.1.5",
+        "scikit-optimize==0.9.0",
+        "scipy==1.5.4"
     ],
     python_requires=">=3.6",
 )
